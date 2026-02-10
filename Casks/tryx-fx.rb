@@ -1,8 +1,8 @@
 cask "tryx-fx" do
-  version "0.1.0"
-  sha256 "8be971604400c3aceb4186bb1648c6ac145631d0041be5b7e56631f6a2aaa16a"
+  version "0.1.1"
+  sha256 "25514696b781006a8b5a9b01983df10c7d8878c91c991859f385f8c7dd82f3a8"
 
-  url "https://github.com/Tesseric/homebrew-tryx-fx/releases/download/v0.1.0/TryX-FX-0.1.0-macOS-Universal.dmg"
+  url "https://github.com/Tesseric/homebrew-tryx-fx/releases/download/v0.1.1/TryX-FX-0.1.1-macOS-Universal.dmg"
   name "TryX FX"
   desc "Audio plugin collection: Time Fracture delay + TryX Synth AI synthesizer"
   homepage "https://github.com/Tesseric/tryx-fx"
