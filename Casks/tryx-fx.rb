@@ -1,6 +1,6 @@
 cask "tryx-fx" do
   version "0.1.0"
-  sha256 "5c3d86d02302b2941a807562efb6edc1df9db7205dc24a4616091c60344e51cc"
+  sha256 "8be971604400c3aceb4186bb1648c6ac145631d0041be5b7e56631f6a2aaa16a"
 
   url "https://github.com/Tesseric/homebrew-tryx-fx/releases/download/v0.1.0/TryX-FX-0.1.0-macOS-Universal.dmg"
   name "TryX FX"
